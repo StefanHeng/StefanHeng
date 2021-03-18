@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StefanHeng&count_private=true&show_icons=true&theme=chartreuse-dark" >
+  <img src="https://github-readme-stats.vercel.app/api?username=StefanHeng&count_private=true&show_icons=true&theme=onedark" >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanHeng&langs_count=10&layout=compact&theme=chartreuse-dark" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanHeng&count_private=true&langs_count=10&layout=compact&theme=onedark" >
 </p>
 
 <!--
