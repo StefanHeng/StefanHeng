@@ -7,8 +7,11 @@ Regarding research, I am fortunate to be mentored by [Dr. Mohammed Saeed](https:
 
 I'm seeking for a Ph.D. program related to Computer Science for Fall 2022.
 
-![](https://github-readme-stats.vercel.app/api?username=StefanHeng&count_private=true&show_icons=true&theme=onedark&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=StefanHeng&count_private=true&show_icons=true&theme=onedark&hide_title=true&hide_rank=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanHeng&count_private=true&langs_count=5&layout=compact&theme=onedark&hide=jupyter%20notebook)
+<br>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=StefanHeng&theme=onedark&langs_count=5&layout=compact&hide_title=true)
+
 
 <!--
 **StefanHeng/StefanHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
