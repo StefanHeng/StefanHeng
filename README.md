@@ -12,7 +12,6 @@ I'm seeking for a Ph.D. program related to Computer Science for Fall 2022.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanHeng&count_private=true&langs_count=5&layout=compact&theme=onedark&hide=jupyter%20notebook)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=StefanHeng&theme=onedark&langs_count=5&layout=compact&hide_title=false)
 
-
 <!--
 **StefanHeng/StefanHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
