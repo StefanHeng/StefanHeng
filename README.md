@@ -4,7 +4,7 @@ I'm an undergraduate senior student majoring in Computer Science at University o
 
 Previously, I interned at eBay Seller Experience as a front-end engineer.
 Regarding research, I am fortunate to be mentored by [Dr. Mohammed Saeed](https://mcircc.umich.edu/members/mohammed-saeed-md-phd).
-Feel free to check out more on [my website](https://stefanheng.github.io). 
+Check out more on [my website](https://stefanheng.github.io). 
 
 I'm seeking for a Ph.D. program related to Computer Science for Fall 2022.
 
