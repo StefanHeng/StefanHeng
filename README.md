@@ -2,7 +2,8 @@
 
 I currently work as a Research Assistant at [CLARITY lab](https://www.jasonmars.org/2014/03/20/clarity-lab-at-university-of-michigan/).
 
-I interned at eBay Seller Experience as a front-end engineer. Regarding research, I am fortunate to be mentored by [Dr. Mohammed Saeed](https://mcircc.umich.edu/members/mohammed-saeed-md-phd) and [Prof. Jason Mars](https://www.jasonmars.org).
+I'm an incoming Master student in Computer Science at Georgia Tech.
+I received my Bachelor's degree in Computer Science at University of Michigan. I interned at eBay Seller Experience as a front-end engineer. Regarding research, I am fortunate to be mentored by [Dr. Mohammed Saeed](https://mcircc.umich.edu/members/mohammed-saeed-md-phd) and [Prof. Jason Mars](https://www.jasonmars.org).
 
 I’m seeking a CS Ph.D. program. 
 
