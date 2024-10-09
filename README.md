@@ -5,8 +5,6 @@ I’m a Master’s student in Computer Science at Georgia Tech, where I’m enga
 
 I received my Bachelor’s degree in Computer Science at University of Michigan, during which I interned at eBay as a front-end engineer. Regarding prior research, I am fortunate to be mentored by [Dr. Mohammed Saeed](https://mcircc.umich.edu/members/mohammed-saeed-md-phd) on ECG signal processing. I also enjoyed working with Ph.D. candidate [Christopher Clarke](https://csclarke.com) and [Professor Jason Mars](https://www.jasonmars.org) on NLP.
 
-I’m seeking a CS/NLP Ph.D. program.
-
 Check out more on [my website](https://stefanheng.github.io). 
 
 ![](https://github-readme-stats.vercel.app/api?username=StefanHeng&count_private=true&show_icons=true&theme=onedark&hide_title=true&hide_rank=true&include_all_commits=false)
