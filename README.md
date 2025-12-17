@@ -1,4 +1,4 @@
-### Hi Visitor:)
+### Hello World!
 
 I’m a Master’s student in Computer Science at Georgia Tech, where I’m engaged in Large Language Model (LLM) research under the guidance of [Professor Chao Zhang](http://chaozhang.org). Most recently, I interned at Honeywell Aerospace as an LLM Software Engineer where I worked on model serving and a RAG-based Jira agent.
 
